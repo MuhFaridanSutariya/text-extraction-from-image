@@ -18,7 +18,7 @@ Sebuah proyek yang dibuat untuk dapat memudahkan manusia dalam pengambilan teks 
 - Pillow
 
 
-## Step to run application locally:
+## Langkah-langkah untuk menjalankan aplikasi ini:
 -	Clone repository ini atau melakukan download manual.
 - Buka command prompt atau miniconda lalu masuk ke path yang dimana pada path tersebut dapat mencari file *app.py* secara langsung.
 - Buat environment pada path tersebut - conda create -name <environment name>
