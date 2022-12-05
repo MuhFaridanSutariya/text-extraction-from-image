@@ -13,8 +13,8 @@ Sebuah proyek yang dibuat untuk dapat memudahkan manusia dalam pengambilan teks 
 - opencv
 - pytesseract
 - tesseract
-- numpy==1.19.3
-- Flask==2.2.2
+- numpy
+- Flask
 - Pillow
 
 
