@@ -41,4 +41,5 @@ Setelah berjalan dengan baik maka dapat copas link tersebut ke browser. contoh: 
 Dimulai dengan mempelajari cara menginstall tesseract yang digunakan untuk ekstraksi teks. Selanjutnya mengambil gambar dan mengekstrak teks dari gambar itu. Mendapatkan pelajaran yang penting yaitu bahwa perlu menggunakan fungsi transformasi gambar tertentu dari OpenCV untuk mengekstraksi teks dari gambar yang kompleks.
   
 ## Reference:
-- [(Charilaos Zisopoulos, Savvas Karagiannidis, Georgios Demirtsoglou and Stefanos Antaris, 2008)](https://www.researchgate.net/publication/236895069_Content-Based_Recommendation_Systems)
+- [(Blog medium yang ditulis oleh Simón Cerda, 2021)](https://medium.com/@simsagues/document-information-extraction-using-ocr-and-nlp-2c3caa5a7720)
+- [(Margot Mieskes dan Stefan Schmunk, 2019)](https://paperswithcode.com/paper/ocr-quality-and-nlp-preprocessing)
