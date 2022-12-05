@@ -1,4 +1,4 @@
-# Aplikasi pembaca teks dari gambar
+# Aplikasi pembaca teks pada gambar
 
 ![image](https://user-images.githubusercontent.com/88027268/205564653-589e8e1e-52b2-4a64-b630-35a5686a2abe.png)
 
