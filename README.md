@@ -31,4 +31,5 @@ Sebuah proyek yang dibuat untuk dapat memudahkan manusia dalam pengambilan teks 
 Setelah berjalan dengan baik maka dapat copas link tersebut ke browser. contoh: http://127.0.0.1:5000/ 
 - Telah disediakan sample gambar yang dapat dilakukan ujicoba pada aplikasi tersebut.
 
-
+## Kesimpulan:
+Dimulai dengan mempelajari cara menginstall tesseract yang digunakan untuk ekstraksi teks. Selanjutnya mengambil gambar dan mengekstrak teks dari gambar itu. Mendapatkan pelajaran yang penting yaitu bahwa perlu menggunakan fungsi transformasi gambar tertentu dari OpenCV untuk mengekstraksi teks dari gambar yang kompleks.
