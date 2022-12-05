@@ -6,7 +6,7 @@ Gambar 1. Tampilan awal aplikasi
 
 ## Proyek overview
 
-Sebuah proyek yang dibuat untuk dapat memudahkan manusia dalam pengambilan teks dari sebuah gambar secara cepat dan tepat dengan mengimplementasikan teknik *Optical Character Recognition* atau ekstraksi teks dari sebuah gambar. proyek ini telah dilakukan deployment ke sebuah website menggunakan teknologi *flask*.
+Sebuah proyek yang dibuat untuk dapat memudahkan manusia dalam pengambilan teks dari sebuah gambar secara cepat dan tepat dengan mengimplementasikan teknik *Optical Character Recognition* atau ekstraksi teks dari sebuah gambar. proyek ini masih dapat dikembangkan dengan menggunakan teknologi canggih seperti salah satunya adalah *BERT*. Aplikasi ini telah dilakukan deployment ke sebuah website menggunakan teknologi *flask*.
 
 ## Teknologi yang digunakan
 
